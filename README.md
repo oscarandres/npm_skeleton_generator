@@ -3,7 +3,7 @@ npm_skeleton_generator
 
 NPM Package Skeleton Generator
 
-Require: Linux Operate System
+Require: Linux Operating System
 
 Use:
 
