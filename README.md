@@ -17,9 +17,4 @@ Then just follow the instructions.
 chmod +x npm_skeleton_generator.sh
 ```
 
-##To use command system wide
-```
-sudo cp ./npm_skeleton_generator.sh /usr/local/bin/npm_skeleton_generator
-```
-
 Enjoy!
